@@ -15,6 +15,7 @@
 <br>
 
 - Student at Holberton School
+- Student at CUN
 - Futbol lover
 - Passionate about learning
 <br>
